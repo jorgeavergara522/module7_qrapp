@@ -1,5 +1,14 @@
 # 📦 Project Setup
 
+### 🧠 Reflection
+
+At first, I was super confused about containerization and virtualization. I kept mixing them up and didn’t really get what made them different. Once I realized that containers share the same host system instead of running their own full operating system, it started to make sense. I was also caught off guard when I saw that Docker had its own mini in-line command line. I literally asked myself, “what the heck did I just type?” when I ran my first container.  
+
+After spending some time on it, I learned how to build a Docker image and run a Python QR Code Generator both manually and through Docker Compose. I also figured out how to use volumes so the QR codes could be saved to my own computer. This assignment really helped everything click. Now I get how Docker keeps apps consistent across different machines and why it’s such a big deal for testing and deployment in real-world DevOps work.
+
+
+
+
 ---
 
 # 🧩 1. Install Homebrew (Mac Only)
